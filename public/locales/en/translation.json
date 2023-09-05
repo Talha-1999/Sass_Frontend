@@ -1,0 +1,82 @@
+{
+  "NavBar": {
+    "1": "Home",
+    "2": "About",
+    "3": "Our services",
+    "4": "Pricing",
+    "5": "Portfolio",
+    "6": "Blog",
+    "7": "Contact",
+    "8": "Language",
+    "9": "Login"
+  },
+  "Footer": {
+    "LT": "Start Creating Today! Your landing page with ease, and show up to your customers in a professional way."
+  },
+  "Home": {
+    "1": "Start Creating Today!",
+    "2": "Unique Landing Pages and More",
+    "3": "Complete Solution",
+    "4": "Your landing page with ease, and show up to your customers in a professional way.",
+    "5": "Get Started",
+    "6": "Contact Us"
+  },
+  "About": {
+    "1": "Create",
+    "2": "With a few clicks, you will have launched your electronic identity in the Internet space, with an unprecedented quality that has been meticulously developed to meet the most important details. ",
+    "3": "ssssssssss",
+    "4": "More About Us"
+  },
+  "ServiceSection": {
+    "subtitle": "What We Do",
+    "title": "Features that live up to your taste and enable you to work",
+    "description": "With a few clicks, you will have launched your electronic identity in the Internet space, with an unprecedented quality that has been meticulously developed to meet the most important details."
+  },
+  "service": {
+    "title": "You can directly sell your service or product"
+  },
+  "ServiceCard": {
+    "SCH.1": "You can directly sell your service or product",
+    "SCH.2": "With ease, enjoy personalized mail for your business",
+    "SCH.3": "Technology developed from scratch",
+    "SCD.1": "Your service or product can be added and made available to your customers without complication.s",
+    "SCD.2": "Add your custom mail to your domain and to all your employees without the need for a specialist.",
+    "SCD.3": "The development was carried out with international technologies, and you also made custom development with expert touches to be unique in high performance."
+  },
+  "Pricing": {
+    "PHB": "Price & Plan",
+    "PH": "Simply put, prices that match your budget.",
+    "PD": "Enjoy the monthly or annual plan, with suitable features and functions, at prices that suit everyone.",
+    "PB": "Choose Plan",
+    "Pm": "Per Month",
+    "Pr": "R.S",
+
+    "P1H": "Basic",
+    "PCH.1": "You can directly sell your service or product",
+    "P1.1": "Landing page",
+    "P1.2": "Innovative control panel",
+    "P1.3": "Custom theme",
+    "P1.4": "Link to your domain",
+
+    "P2H": "Standard",
+    "P2.1": "Landing page",
+    "P2.2": "Innovative control panel",
+    "P2.3": "variable content",
+    "P2.4": "custom theme",
+    "P2.5": "Your domain email address",
+    "P2.6": "control mail from control panel",
+
+    "P3H": "Professional",
+    "P3.1": "Landing page",
+    "P3.2": "Innovative control panel",
+    "P3.3": "Variable content",
+    "P3.4": "custom theme",
+    "P3.5": "Your domain email address",
+    "P3.6": "Control mail from the control panel"
+  },
+  "Portfolio": {
+    "PHB": "Themes",
+    "PH": "Choose the theme that expresses you and customize it only for you.",
+    "PD": "You can choose the appropriate theme for your field to match your business requirements."
+  }
+}
